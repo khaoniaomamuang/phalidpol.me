@@ -1,6 +1,6 @@
 # phalidpol.me
 
-Hello and welcome to my website! My name is Phalidpol Zhu and I am a BCom and BSc undergraduate student at the University of Auckland. I am currently pursuing a double major in business management and economics, and a double minor in computer science and statistics. I have always been interested in exploring different fields of study and finding connections between them. I believe that having a multidisciplinary background can help me solve complex problems and create innovative solutions.
+Hello and welcome to my website! My name is Phalidpol Zhu and I am a BCom and BSc undergraduate student at the University of Auckland. I am currently pursuing a "quadruple" major in business management, economics, computer science and statistics. I have always been interested in exploring different fields of study and finding connections between them. I believe that having a multidisciplinary background can help me solve complex problems and create innovative solutions.
 
 Please note that this website is still a work in progress and I will be updating it regularly with new content and features. So please check back often to see what's new!
 
