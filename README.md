@@ -8,5 +8,5 @@ On this website, you will find more information about me, such as my academic ba
 
 ## Contact Me
 
-If you would like to get in touch with me, please feel free to send me an email at 📩 [mail@phalidpol.me](mailto:mail@phalidpol.me).
+If you would like to get in touch with me, please feel free to send me an email at 📩 [mail@phalidpol.me](mailto:mail@phalidpol.me). Emails to this address will be forwarded to my personal email address, phalidpol@gmail.com.
 You can also find me on 💼 [LinkedIn](https://www.linkedin.com/in/phalidpol/) and 👨‍💻 [GitHub](https://github.com/khaoniaomamuang).
