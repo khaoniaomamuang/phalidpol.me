@@ -12,8 +12,8 @@ If you would like to get in touch with me, please feel free to send me an email 
 
 You can also find me on 💼 [LinkedIn](https://www.linkedin.com/in/phalidpol/) and 👨‍💻 [GitHub](https://github.com/khaoniaomamuang). Feel free to connect with me on LinkedIn and look on GitHub!
 
+***
 
-
-## Acknowledgements
+### Acknowledgements
 
 This website is built using [Jekyll](https://jekyllrb.com/) and the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme. Both are licensed under the [MIT License](https://github.com/jekyll/jekyll/blob/master/LICENSE).
