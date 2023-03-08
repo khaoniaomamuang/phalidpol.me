@@ -3,7 +3,7 @@
 Hello and welcome to my website! My name is Phalidpol Zhu and I am a BCom and BSc undergraduate student at the University of Auckland. I am currently pursuing a "quadruple" major in business management, economics, computer science and statistics. I have always been interested in exploring different fields of study and finding connections between them. I believe that having a multidisciplinary background can help me solve complex problems and create innovative solutions.
 
 ## Pass studies
-I am a proud graduate of Rangitoto College, where I excelled in a diverse range of subjects: Geography, Physics, Calculus, Computer Science and ICT. I earned a National Certificate of Educational Achievement (NCEA) Level 3 with excellence endorsement in November 2022 and honed my skills in research, software development, web development, project management and mathematical analysis. I also pursued my passions outside the classroom by joining various activities and societies, such as the New Zealand Informatics Competition, World Vision Community Fundraiser and Sustainable Coastlines Volunteer.
+I am a proud graduate of Rangitoto College, where I excelled in a diverse range of subjects: Geography, Physics, Calculus, Computer Science and ICT. I earned a National Certificate of Educational Achievement (NCEA) Level 3 with excellence endorsement in November 2022 and honed my skills in research, software development, web development, project management, critical thinking and mathematical analysis. I also pursued my passions outside the classroom by joining various activities and societies, such as the New Zealand Informatics Competition, World Vision Community Fundraiser and Sustainable Coastlines Volunteer.
 
 ## Contact Me
 
