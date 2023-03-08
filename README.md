@@ -11,6 +11,10 @@ If you would like to get in touch with me, please feel free to send me an email 
 
 You can also find me on 💼 [LinkedIn](https://www.linkedin.com/in/phalidpol/) and 👨‍💻 [GitHub](https://github.com/khaoniaomamuang). Feel free to connect with me on LinkedIn and look on GitHub!
 
+## Work Experience
+
+Although I don’t have any formal work experience yet, I have been focusing on my education and developing my skills in business management, economics, computer science and statistics. . During my studies, I have learned how to use quantitative analytics, statistical data analysis, programming and research methods to solve various business and scientific problems. I have also honed my presentation and communication skills through group projects and assignments. I am eager to apply what I have learned to a real-world setting and gain more hands-on experience. I am a fast learner who can adapt to different situations and challenges. I am also open-minded and willing to take feedback and guidance from others. I believe that I can bring value to your company with my passion, creativity, and analytical skills.
+
 ***
 
 # The Website
