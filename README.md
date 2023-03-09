@@ -8,7 +8,7 @@ On this website, you will *soon* find more information about me, such as my acad
 
 ## Contact Me
 
-If you would like to get in touch with me, please feel free to send me an email at 📩 [mail@phalidpol.me](mailto:mail@phalidpol.me). Emails to this address will be forwarded to my personal email address, phalidpol@gmail.com. You can also send it directly to my personal email address if you prefer, or the forwarding does not work.
+If you would like to get in touch with me, please feel free to send me an email at 📩 [mail@phalidpol.me](mailto:mail@phalidpol.me). Emails to this address will be forwarded to my personal email address, [phalidpol@gmail.com]. You can also send it directly to my personal email address if you prefer, or the forwarding does not work. My university email address is [pzhu904@aucklanduni.ac.nz].
 
 You can also find me on 💼 [LinkedIn](https://www.linkedin.com/in/phalidpol/) and 👨‍💻 [GitHub](https://github.com/khaoniaomamuang). Feel free to connect with me on LinkedIn and look on GitHub!
 
