@@ -3,9 +3,11 @@
   <summary> For TEDxUoA (click to expand) </summary>
 
 ### Downloads
+
 [CV](https://github.com/khaoniaomamuang/phalidpol.me/raw/main/files/Phalidpol-Zhu-CV-1.pdf)
 
 [Timetable](https://github.com/khaoniaomamuang/phalidpol.me/raw/main/files/timetable.png)
+
 </details>
 
 
