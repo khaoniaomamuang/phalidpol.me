@@ -1,15 +1,9 @@
 # About Me
-<details>
-  <summary> For TEDxUoA (click to expand) </summary>
 
 ### Downloads
-
 [CV](https://github.com/khaoniaomamuang/phalidpol.me/raw/main/files/Phalidpol-Zhu-CV-1.pdf)
 
 [Timetable](https://github.com/khaoniaomamuang/phalidpol.me/raw/main/files/timetable.png)
-
-</details>
-
 
 ## Current studies
 Hello and welcome to my website! My name is Phalidpol Zhu and I am a BCom and BSc undergraduate student at the University of Auckland. I am currently pursuing a "quadruple" major in business management, economics, computer science and statistics. I have always been interested in exploring different fields of study and finding connections between them. I believe that having a multidisciplinary background can help me solve complex problems and create innovative solutions.
