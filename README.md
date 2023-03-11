@@ -24,9 +24,9 @@ Please note that this website is still a work in progress and I will be updating
 On this website, you will *soon* find more information about me, such as my academic background, my work experience, my skills and hobbies. You will also see some of the projects that I have done or participated in, both individually and in teams. These projects showcase my abilities in data analysis, programming, web development, business planning and more. In addition, you will also discover some of the achievements that I am proud of, such as awards, scholarships, publications and certifications. Finally, you will also learn more about my interests and passions outside of academics and work.
 
 ### Downloads
-[CV](https://github.com/khaoniaomamuang/phalidpol.me/raw/main/files/Phalidpol-Zhu-CV-1.pdf)
+[Phalidpol Zhu CV](https://github.com/khaoniaomamuang/phalidpol.me/raw/main/files/Phalidpol-Zhu-CV-1.pdf)
 
-[Timetable](https://github.com/khaoniaomamuang/phalidpol.me/raw/main/files/timetable.png)
+[UoA Timetable](https://github.com/khaoniaomamuang/phalidpol.me/raw/main/files/timetable.png)
 
 ### Acknowledgements
 
